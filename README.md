@@ -2,20 +2,29 @@
 
 ## Índice
 1. [Introdução](#introdução)
-2. [Panorama das Ameaças de Segurança no WordPress](#panorama-das-ameaças-de-segurança-no-wordpress)
-3. [Melhores Práticas de Segurança para WordPress](#melhores-práticas-de-segurança-para-wordpress)
-4. [Estrutura de Defesa em Profundidade](#estrutura-de-defesa-em-profundidade)
-5. [Ferramentas Essenciais de Segurança para WordPress](#ferramentas-essenciais-de-segurança-para-wordpress)
-6. [Hardening Avançado do WordPress](#hardening-avançado-do-wordpress)
-7. [Resposta e Recuperação em Casos de Incidentes](#resposta-e-recuperação-em-casos-de-incidentes)
-8. [Conformidade com Regulamentações e Proteção de Dados](#conformidade-com-regulamentações-e-proteção-de-dados)
-9. [Próximos Passos e Adoção de Tecnologias Emergentes](#próximos-passos-e-adoção-de-tecnologias-emergentes)
+2. [Estatísticas e Dados de Ameaças](#estatisticas-e-dados-de-ameacas)
+3. [Panorama das Ameaças de Segurança no WordPress](#panorama-das-ameaças-de-segurança-no-wordpress)
+4. [Melhores Práticas de Segurança para WordPress](#melhores-práticas-de-segurança-para-wordpress)
+5. [Estrutura de Defesa em Profundidade](#estrutura-de-defesa-em-profundidade)
+6. [Ferramentas Essenciais de Segurança para WordPress](#ferramentas-essenciais-de-segurança-para-wordpress)
+7. [Hardening Avançado do WordPress](#hardening-avançado-do-wordpress)
+8. [Resposta e Recuperação em Casos de Incidentes](#resposta-e-recuperação-em-casos-de-incidentes)
+9. [Conformidade com Regulamentações e Proteção de Dados](#conformidade-com-regulamentações-e-proteção-de-dados)
+10. [Próximos Passos e Adoção de Tecnologias Emergentes](#próximos-passos-e-adoção-de-tecnologias-emergentes)
 
 ---
 
 ## Introdução
 
 WordPress alimenta aproximadamente 40% da web, tornando-se uma das plataformas de gerenciamento de conteúdo mais populares do mundo. No entanto, sua popularidade também o torna um alvo preferido para ataques cibernéticos. A segurança de um site WordPress é fundamental para a proteção dos dados do proprietário e dos usuários, a confiabilidade do negócio e a continuidade dos serviços.
+
+---
+
+## Estatísticas e Dados de Ameaças
+
+- **Frequência de Ataques:** Segundo dados do Wordfence, aproximadamente 90.000 sites WordPress são atacados diariamente.
+- **Tipos Comuns de Ameaças:** Os ataques de força bruta, malware e injeções de SQL estão entre as ameaças mais frequentes enfrentadas por sites WordPress.
+- **Impactos Financeiros:** As violações de segurança podem custar às empresas até $3,86 milhões em média, de acordo com o relatório da IBM sobre custo de violação de dados.
 
 ---
 
