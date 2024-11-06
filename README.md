@@ -67,6 +67,14 @@ Aqui estão algumas das ameaças mais frequentes que afetam os sites WordPress:
    - Configure atualizações automáticas para WordPress, plugins e temas.
    - Audite regularmente os plugins e temas instalados.
 
+5. **Cuidado com Plugins Criados por IA**
+   - **Perigos:** Ao utilizar ferramentas de Inteligência Artificial para criar plugins, é essencial estar ciente de que, muitas vezes, esses sistemas não realizam a sanitização adequada do código. A falta de sanitização pode resultar em vulnerabilidades como:
+     - **Injeções de código malicioso**: A falta de verificação adequada de entradas e saídas pode permitir que scripts maliciosos sejam executados.
+     - **Abertura de brechas de segurança**: A IA pode gerar código que não segue as melhores práticas de segurança, deixando o site vulnerável a ataques como XSS (Cross-Site Scripting) e SQL Injection.
+     - **Insegurança na manipulação de dados**: IA pode falhar ao validar corretamente dados de usuários ou arquivos, expondo o site a riscos de vazamentos de informações.
+
+   **Recomendação:** Sempre revise manualmente o código gerado por IA, implemente práticas adequadas de sanitização e validação de dados e, quando possível, faça auditorias de segurança rigorosas antes de colocar plugins em produção.
+
 ---
 
 ## Estrutura de Defesa em Profundidade
