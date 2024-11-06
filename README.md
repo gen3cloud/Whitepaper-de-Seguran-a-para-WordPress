@@ -157,7 +157,32 @@ Aqui estão algumas das ameaças mais frequentes que afetam os sites WordPress:
    - **[MalCare Security](https://malcare.com/)**  
      Focado em fornecer segurança em tempo real, o MalCare realiza escaneamento de malware, bloqueio de IPs suspeitos e alertas automáticos para ataques em andamento. Além disso, tem uma ferramenta de remoção de malware eficiente, caso seu site seja comprometido.
 
+5. **Sites para Verificação de Segurança de Sites e Certificados Legais (Gratuitos)**
 
+   Abaixo, uma lista de sites gratuitos para verificar a segurança de seu site e, caso passe na verificação, você pode adicionar certificados de segurança no rodapé de seu site:
+
+   - **[Norton Safe Web](https://safeweb.norton.com/)**  
+     Verifique se o seu site está livre de malware e se ele é seguro para os visitantes. É possível adicionar o selo de segurança Norton no rodapé de seu site.
+
+   - **[Trend Micro Site Safety Center](https://global.sitesafety.trendmicro.com/index.php)**  
+     Realiza a análise de segurança de sites e fornece uma pontuação de segurança. Você pode adicionar um selo de segurança se o seu site estiver limpo.
+
+   - **[SiteCheck Sucuri](https://sitecheck.sucuri.net/results/)**  
+     Verifique a segurança do seu site em busca de malware, falhas de segurança e vulnerabilidades. O Sucuri oferece uma verificação detalhada e você pode incluir um selo no seu site se estiver seguro.
+
+   - **[SSL Labs SSL Test](https://www.ssllabs.com/ssltest/analyze.html)**  
+     Teste o certificado SSL do seu site e veja como ele se comporta em termos de segurança. Adicione um selo SSL quando seu site estiver corretamente configurado com HTTPS.
+
+   - **[Google Transparency Report](https://transparencyreport.google.com/safe-browsing/search?hl=pt_BR)**  
+     Verifique se o seu site está seguro para navegação e se não está na lista de sites perigosos do Google. Caso seu site passe, você pode exibir o selo de segurança no rodapé.
+
+   - **[VirusTotal](https://www.virustotal.com/gui/home/url)**  
+     Analise seu site com o VirusTotal, que verifica a presença de malware com vários motores de segurança. Depois de aprovado, é possível exibir o selo de segurança.
+
+   - **[Quixy SSL Checker](https://www.quixy.com/ssl-checker/)**  
+     Ferramenta que verifica a validade e o nível de segurança do certificado SSL do seu site. Ideal para garantir que seu site está implementando HTTPS corretamente.
+
+Esses sites não só ajudam a verificar a segurança do seu site, mas também permitem adicionar selos de confiança, o que pode aumentar a credibilidade e a confiança dos usuários.
 
 ---
 
