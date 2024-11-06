@@ -69,15 +69,18 @@ Aqui estão algumas das ameaças mais frequentes que afetam os sites WordPress:
 
 ## Ferramentas Essenciais de Segurança para WordPress
 
-- **Wordfence Security**
-- **Sucuri Security**
-- **iThemes Security**
-- **WP Guardian**
+- [Wordfence Security](https://www.wordfence.com/)
+- [Sucuri Security](https://sucuri.net/)
+- [iThemes Security](https://ithemes.com/security/)
+- [WP Guardian](https://wpguardian.com/)
+- [All In One WP Security & Firewall](https://wordpress.org/plugins/all-in-one-wp-security-and-firewall/)
 
 ### Backups e Recuperação de Desastres
-- **UpdraftPlus**
-- **BackupBuddy**
-- **VaultPress**
+
+- [UpdraftPlus](https://updraftplus.com/)
+- [BackupBuddy](https://ithemes.com/backupbuddy/)
+- [VaultPress](https://jetpack.com/vaultpress/)
+
 
 ---
 
