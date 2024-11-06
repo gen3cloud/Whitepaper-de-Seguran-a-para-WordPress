@@ -10,7 +10,6 @@
 7. [Resposta e Recuperação em Casos de Incidentes](#resposta-e-recuperação-em-casos-de-incidentes)
 8. [Conformidade com Regulamentações e Proteção de Dados](#conformidade-com-regulamentações-e-proteção-de-dados)
 9. [Próximos Passos e Adoção de Tecnologias Emergentes](#próximos-passos-e-adoção-de-tecnologias-emergentes)
-10. [Conclusão](#conclusão)
 
 ---
 
@@ -125,6 +124,9 @@ Aqui estão algumas das ameaças mais frequentes que afetam os sites WordPress:
 
 ---
 
-## Conclusão
+A segurança no WordPress é um processo dinâmico e essencial para qualquer site, um ciclo constante de vigilância e melhoria. Assim como em uma fortaleza, a verdadeira segurança não é alcançada apenas com paredes altas, mas também com a atenção e o preparo de seus guardiões. Ao implementar as práticas e ferramentas descritas, proprietários de sites não apenas reduzem os riscos, mas constroem uma base sólida e resiliente, prontos para enfrentar os desafios de segurança que se renovam com o tempo e a tecnologia. Segurança é, afinal, um compromisso contínuo com a proteção e a confiança.
 
-A segurança no WordPress é um processo dinâmico e essencial para qualquer site. Ao implementar as práticas e ferramentas descritas, proprietários de sites podem reduzir os riscos e construir uma base sólida para enfrentar desafios de segurança atuais e futuros.
+## Agradecimentos
+
+Agradecemos a todos que contribuem para a proteção do ecossistema WordPress. Em especial, destacamos a [WPShield](https://wpshield.com/) pelo suporte contínuo e pelas inovações em segurança para WordPress.
+
