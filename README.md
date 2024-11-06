@@ -11,12 +11,14 @@
 8. [Resposta e Recuperação em Casos de Incidentes](#resposta-e-recuperação-em-casos-de-incidentes)
 9. [Conformidade com Regulamentações e Proteção de Dados](#conformidade-com-regulamentações-e-proteção-de-dados)
 10. [Próximos Passos e Adoção de Tecnologias Emergentes](#próximos-passos-e-adoção-de-tecnologias-emergentes)
+11. [Conclusão](#conclusão)
+12. [Agradecimentos](#agradecimentos)
 
 ---
 
 ## Introdução
 
-WordPress alimenta aproximadamente 40% da web, tornando-se uma das plataformas de gerenciamento de conteúdo mais populares do mundo. No entanto, sua popularidade também o torna um alvo preferido para ataques cibernéticos. A segurança de um site WordPress é fundamental para a proteção dos dados do proprietário e dos usuários, a confiabilidade do negócio e a continuidade dos serviços.
+WordPress alimenta aproximadamente 40% da web, tornando-se uma das plataformas de gerenciamento de conteúdo mais populares do mundo. No entanto, sua popularidade também o torna um alvo preferido para ataques cibernéticos. A segurança de um site WordPress é fundamental para a proteção dos dados do proprietário e dos usuários, a confiabilidade do negócio e a continuidade dos serviços. Este whitepaper explora as ameaças à segurança do WordPress, melhores práticas de proteção e recomendações para garantir um ambiente seguro.
 
 ---
 
@@ -82,13 +84,12 @@ Aqui estão algumas das ameaças mais frequentes que afetam os sites WordPress:
 - [iThemes Security](https://ithemes.com/security/)
 - [WP Guardian](https://wpguardian.com/)
 - [All In One WP Security & Firewall](https://wordpress.org/plugins/all-in-one-wp-security-and-firewall/)
-
+  
 ### Backups e Recuperação de Desastres
 
 - [UpdraftPlus](https://updraftplus.com/)
 - [BackupBuddy](https://ithemes.com/backupbuddy/)
 - [VaultPress](https://jetpack.com/vaultpress/)
-
 
 ---
 
@@ -135,7 +136,8 @@ Aqui estão algumas das ameaças mais frequentes que afetam os sites WordPress:
 
 A segurança no WordPress é um processo dinâmico e essencial para qualquer site, um ciclo constante de vigilância e melhoria. Assim como em uma fortaleza, a verdadeira segurança não é alcançada apenas com paredes altas, mas também com a atenção e o preparo de seus guardiões. Ao implementar as práticas e ferramentas descritas, proprietários de sites não apenas reduzem os riscos, mas constroem uma base sólida e resiliente, prontos para enfrentar os desafios de segurança que se renovam com o tempo e a tecnologia. Segurança é, afinal, um compromisso contínuo com a proteção e a confiança.
 
+---
+
 ## Agradecimentos
 
 Agradecemos a todos que contribuem para a proteção do ecossistema WordPress. Em especial, destacamos a [WPShield](https://wpshield.com.br/) pelo suporte contínuo e pelas inovações em segurança para WordPress.
-
