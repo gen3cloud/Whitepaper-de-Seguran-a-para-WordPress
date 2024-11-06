@@ -135,6 +135,14 @@ Aqui estão algumas das ameaças mais frequentes que afetam os sites WordPress:
 
 ---
 
+## Conformidade com Regulamentações e Proteção de Dados
+
+1. **Política de Privacidade e Transparência**
+2. **Coleta e Armazenamento de Dados**
+3. **Consentimento para Cookies**
+
+---
+
 A segurança no WordPress é um processo dinâmico e essencial para qualquer site, um ciclo constante de vigilância e melhoria. Assim como em uma fortaleza, a verdadeira segurança não é alcançada apenas com paredes altas, mas também com a atenção e o preparo de seus guardiões. Ao implementar as práticas e ferramentas descritas, proprietários de sites não apenas reduzem os riscos, mas constroem uma base sólida e resiliente, prontos para enfrentar os desafios de segurança que se renovam com o tempo e a tecnologia. Segurança é, afinal, um compromisso contínuo com a proteção e a confiança.
 
 ---
