@@ -128,5 +128,5 @@ A segurança no WordPress é um processo dinâmico e essencial para qualquer sit
 
 ## Agradecimentos
 
-Agradecemos a todos que contribuem para a proteção do ecossistema WordPress. Em especial, destacamos a [WPShield](https://wpshield.com/) pelo suporte contínuo e pelas inovações em segurança para WordPress.
+Agradecemos a todos que contribuem para a proteção do ecossistema WordPress. Em especial, destacamos a [WPShield](https://wpshield.com.br/) pelo suporte contínuo e pelas inovações em segurança para WordPress.
 
