@@ -50,13 +50,20 @@ Aqui estão algumas das ameaças mais frequentes que afetam os sites WordPress:
    - Defina permissões de arquivos adequadas.
    - Desative o editor de arquivos no painel WordPress.
 
-2. **Autenticação e Controle de Acesso**
+2. **Mudança da URL do wp-admin**
+   - Mudar a URL padrão do painel `wp-admin` é uma maneira eficaz de dificultar o acesso não autorizado ao seu site.
+   - Use um plugin para alterar a URL de login do WordPress e aumentar a segurança.
+   
+   **Plugin Recomendado: [WPS Hide Login](https://wordpress.org/plugins/wps-hide-login/)**  
+   Este plugin permite alterar a URL de login do WordPress sem afetar outras funcionalidades do site. É simples de configurar e ajuda a proteger a página de login contra ataques de força bruta.
+
+3. **Autenticação e Controle de Acesso**
    - Use senhas seguras e únicas.
    - Habilite autenticação de dois fatores (2FA).
    - Limite tentativas de login.
    - Atribua permissões de usuário mínimas.
 
-3. **Atualizações Contínuas**
+4. **Atualizações Contínuas**
    - Configure atualizações automáticas para WordPress, plugins e temas.
    - Audite regularmente os plugins e temas instalados.
 
