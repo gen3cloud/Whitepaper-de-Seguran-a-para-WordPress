@@ -119,9 +119,27 @@ Aqui estão algumas das ameaças mais frequentes que afetam os sites WordPress:
 
 ## Conformidade com Regulamentações e Proteção de Dados
 
-1. **Política de Privacidade e Transparência**
-2. **Coleta e Armazenamento de Dados**
-3. **Consentimento para Cookies**
+### LGPD (Lei Geral de Proteção de Dados)
+
+1. **Política de Privacidade e Transparência**  
+   Inclua uma política clara e acessível para explicar como os dados dos usuários são coletados, armazenados e utilizados.
+
+2. **Coleta e Armazenamento de Dados**  
+   Solicite e armazene dados apenas quando necessário e com o consentimento explícito do usuário.
+
+3. **Consentimento para Cookies**  
+   Informe os usuários sobre o uso de cookies e obtenha seu consentimento explícito.
+
+4. **Direito ao Esquecimento**  
+   Implemente processos para permitir que os usuários solicitem a exclusão de seus dados pessoais.
+
+### Plugins Recomendados
+
+- [WP GDPR Compliance](https://wordpress.org/plugins/wp-gdpr-compliance/)  
+  Permite gerenciar o consentimento de cookies, possibilita que os usuários solicitem a exclusão de dados e ajuda a obter conformidade com a LGPD.
+
+- [Cookie Notice for GDPR & CCPA](https://wordpress.org/plugins/cookie-notice/)  
+  Adiciona um aviso de consentimento de cookies em conformidade com a LGPD.
 
 ---
 
@@ -132,14 +150,6 @@ Aqui estão algumas das ameaças mais frequentes que afetam os sites WordPress:
 
 2. **Automação de Resposta a Incidentes**
    - Playbooks automatizados de segurança.
-
----
-
-## Conformidade com Regulamentações e Proteção de Dados
-
-1. **Política de Privacidade e Transparência**
-2. **Coleta e Armazenamento de Dados**
-3. **Consentimento para Cookies**
 
 ---
 
