@@ -2,7 +2,7 @@
 
 ## Índice
 1. [Introdução](#introdução)
-2. [Estatísticas e Dados de Ameaças](#estatisticas-e-dados-de-ameacas)
+2. [Estatísticas e Dados de Ameaças](#estatísticas-e-dados-de-ameaças)
 3. [Panorama das Ameaças de Segurança no WordPress](#panorama-das-ameaças-de-segurança-no-wordpress)
 4. [Melhores Práticas de Segurança para WordPress](#melhores-práticas-de-segurança-para-wordpress)
 5. [Estrutura de Defesa em Profundidade](#estrutura-de-defesa-em-profundidade)
