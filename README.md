@@ -8,13 +8,13 @@ WordPress alimenta aproximadamente 40% da web, tornando-se uma das plataformas d
 
 Aqui estão as ameaças mais frequentes que afetam os sites WordPress:
 
-# Ataques de Força Bruta: Hackers tentam várias combinações de senhas para acessar o painel do WordPress.
-# Injeções SQL e XSS (Cross-Site Scripting): Injeções SQL visam manipular o banco de dados e acessar informações críticas, enquanto o XSS é usado para comprometer a interface de usuários e injetar scripts maliciosos.
-# Ataques de Negação de Serviço (DDoS): Ataques DDoS sobrecarregam o servidor, tornando o site inacessível.
-# Exploits em Plugins e Temas: Vulnerabilidades em plugins e temas são comuns devido à falta de atualização ou falhas no código.
-# Malware e Backdoors: A instalação de backdoors permite que invasores acessem o site mesmo após a remoção inicial do malware.
-# Defacement (Desfiguração de Site): Hackers modificam o conteúdo visual do site, o que pode prejudicar a reputação de uma empresa.
-# Phishing e Engenharia Social: Campanhas de phishing visam obter credenciais de administradores ou usuários.
+Ataques de Força Bruta: Hackers tentam várias combinações de senhas para acessar o painel do WordPress.
+Injeções SQL e XSS (Cross-Site Scripting): Injeções SQL visam manipular o banco de dados e acessar informações críticas, enquanto o XSS é usado para comprometer a interface de usuários e injetar scripts maliciosos.
+Ataques de Negação de Serviço (DDoS): Ataques DDoS sobrecarregam o servidor, tornando o site inacessível.
+Exploits em Plugins e Temas: Vulnerabilidades em plugins e temas são comuns devido à falta de atualização ou falhas no código.
+Malware e Backdoors: A instalação de backdoors permite que invasores acessem o site mesmo após a remoção inicial do malware.
+Defacement (Desfiguração de Site): Hackers modificam o conteúdo visual do site, o que pode prejudicar a reputação de uma empresa.
+Phishing e Engenharia Social: Campanhas de phishing visam obter credenciais de administradores ou usuários.
 
 # 3. Melhores Práticas de Segurança para WordPress
 
