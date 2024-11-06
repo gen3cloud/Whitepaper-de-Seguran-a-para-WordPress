@@ -88,8 +88,8 @@ Aqui estão algumas das ameaças mais frequentes que afetam os sites WordPress:
 ### Backups e Recuperação de Desastres
 
 - [UpdraftPlus](https://updraftplus.com/)
-- [BackupBuddy](https://ithemes.com/backupbuddy/)
-- [VaultPress](https://jetpack.com/vaultpress/)
+- [Solid Backups](https://solidwp.com/backups/)
+- [VaultPress](https://jetpack.com/upgrade/backup/)
 - [WP Vivid Backup](https://wpvivid.com/)
 
 ---
